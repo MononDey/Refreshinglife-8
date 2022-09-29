@@ -1,0 +1,12 @@
+.logo {
+    height: 3%;
+    width: 5%;
+}
+
+@media only screen and (max-width:768px) {
+
+    .logo {
+        height: 7%;
+        width: 9%;
+    }
+}
