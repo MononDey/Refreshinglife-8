@@ -64,7 +64,7 @@ const Activities = () => {
                             <div className='flex justify-center'>
                                 <button
                                     className="bg-violet-800 font-semibold rounded px-16 py-2 mb-8 text-center text-white"
-                                    onClick={alert} >Complete Activity</button>
+                                    onClick={alert} >Completed My Activity</button>
 
                             </div>
                         </div>
