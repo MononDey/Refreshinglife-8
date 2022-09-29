@@ -20,6 +20,8 @@ const Person = () => {
                 <div>
                     <h4>24 yr</h4>
                     <h6>Age</h6>
+
+
                 </div>
             </div>
         </div>
