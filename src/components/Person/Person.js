@@ -25,6 +25,8 @@ const Person = () => {
                 </div>
             </div>
         </div>
+
+
     );
 };
 
