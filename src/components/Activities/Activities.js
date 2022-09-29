@@ -72,7 +72,7 @@ const Activities = () => {
                 </div>
             </div>
             <div className='md:mt-8 flex flex-col justify-center items-center gap-4'>
-                <h1 className='text-3xl mb-8 text-violet-700 font-bold underline undrerline-offset-4'>Blog.</h1>
+                <h1 className='text-3xl mb-8 text-violet-700 font-bold underline undrerline-offset-4'>BLOGS</h1>
                 <div
                     className="max-w-screen-md rounded-lg border border-gray-200 shadow-md bg-gray-200 dark:border-gray-700">
                     <div className="p-5">
@@ -99,12 +99,12 @@ const Activities = () => {
                             <li>Props are read-only.</li>
                         </ol>
                         <p className="mb-3 font-normal text-gray-800">The <span className='font-bold'>state</span> represents parts of an Application that can change. Each component can have its State. The state is Mutable and It is local to the component only.</p>
-                        <ol className="mb-3 font-normal text-gray-800 list-disc list-inside">
+                        <ul className="mb-3 font-normal text-gray-800 list-disc list-inside">
                             <li>The Data is passed within the component only.</li>
                             <li>The Data is passed within the component only.</li>
                             <li>State can be used only with the state components/class component (Before 16.0).</li>
                             <li>State is both read and write.</li>
-                        </ol>
+                        </ul>
                     </div>
                 </div>
                 <div
